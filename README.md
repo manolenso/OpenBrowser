@@ -1,4 +1,4 @@
-key bindings in user
+<center><big>keys bindings-user</big></center>
 
 [
 { "keys": ["ctrl+alt+h"], "command": "open_browser", "args" : {"url" : "http://php.net/manual/fr/function.%s"}},
